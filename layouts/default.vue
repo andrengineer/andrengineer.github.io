@@ -2,7 +2,7 @@
     <header>
         <HeaderNavigation />
     </header>
-    <main>
+    <main class="container">
         <slot />
     </main>
 </template>
