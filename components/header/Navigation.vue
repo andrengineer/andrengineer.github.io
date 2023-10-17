@@ -10,7 +10,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <NuxtLink class="nav-link" aria-current="page" to="/about">Acerca</NuxtLink>
+                    <NuxtLink class="nav-link" aria-current="page" to="/software">Software</NuxtLink>
+                </li>
+                <li class="nav-item">
+                    <NuxtLink class="nav-link" aria-current="page" to="/develop">Develop</NuxtLink>
                 </li>
             </ul>
             </div>
